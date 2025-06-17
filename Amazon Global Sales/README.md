@@ -1,1 +1,1 @@
-
+This project features a dynamic Power BI dashboard developed to analyze Amazon’s global sales data from 2012 to 2015. The dashboard offers interactive visualizations and actionable insights, enabling better understanding and decision-making regarding sales performance
