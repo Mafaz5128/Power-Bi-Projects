@@ -21,6 +21,20 @@ This project presents an exploratory and statistical analysis of patient appoint
 
 ![Screenshot (443)](https://github.com/user-attachments/assets/4b43d7c5-0b24-483b-9f20-62e278f60e1d)
 
+#### Custom DAX measures were created to drive insights and KPIs in the dashboard:
+
+  NoShow Rate (%)
+  → Percentage of missed appointments among total scheduled.
+
+  KPI_<Condition>
+  → No-show % among patients with specific conditions (e.g., KPI_Diabetes, KPI_Alcoholism).
+
+  AgeGroup
+  → Categorized age into groupes: "Child", "Young Adult", "Adult", "Senior".
+
+  DateDiff
+  → Number of days between scheduled date and appointment day to analyze scheduling impact.
+
 
 ### key insights:
   Gender & Age: Female patients aged 20–64 show a slightly higher no-show rate than males.
