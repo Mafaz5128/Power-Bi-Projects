@@ -13,3 +13,7 @@ Key Highlights:
   Product Profitability: Identifies top-grossing and underperforming products based on profit margins.
 
 ![Screenshot (442)](https://github.com/user-attachments/assets/b6fca166-84fb-407c-9227-8dd19ec02f11)
+
+## 2. Health Care - Appointments & No-show Analysis
+![image](https://github.com/user-attachments/assets/a616bde0-fc0d-4403-aed7-8e3888ec905e)
+
