@@ -63,3 +63,10 @@ This Power BI dashboard analyzes recruitment lead times for executive-level and 
 #### Link : https://app.powerbi.com/groups/me/reports/dde24927-0dae-4885-b45e-847bb97202b2/d00a8b511e376999e464?experience=power-bi
 <img width="900" height="495" alt="Screenshot (455)" src="https://github.com/user-attachments/assets/2fdcab39-3a34-40e7-810d-feb2e56034e2" />
 
+## 4. Energy Consumption
+
+
+<img width="776" height="443" alt="Screenshot (456)" src="https://github.com/user-attachments/assets/e0a7e868-26b6-472d-9fc2-a55e4bf77bd1" />
+
+
+
