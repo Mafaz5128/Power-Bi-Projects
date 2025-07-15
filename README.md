@@ -44,3 +44,22 @@ This project presents an exploratory and statistical analysis of patient appoint
   Scheduling Gap: The shorter the time between scheduling and appointment day, the lower the no-show rate—same-day appointments have the fewest no-shows.
 
   Neighborhood Trends: Certain neighborhoods have a significantly higher concentration of missed appointments, indicating location-based disparities.
+
+## 3. HR Analytics - Recruitment Lead Time Analysis
+This Power BI dashboard analyzes recruitment lead times for executive-level and above positions across multiple Strategic Business Units (SBUs) in 2025. The dashboard helps HR and talent acquisition teams track, measure, and optimize the recruitment process, especially in meeting key performance indicators (KPIs) around time-to-hire efficiency.
+
+### Key Objectives:
+  Track total number of executive-level recruitments across SBUs.
+
+  Monitor the average recruitment lead time.
+
+  Identify roles or SBUs with delayed recruitment cycles.
+
+  Evaluate performance against KPIs (Lead Time < 30 Days).
+
+  Enable monthly and SBU-level filtering for granular analysis.
+
+
+#### Link : https://app.powerbi.com/groups/me/reports/dde24927-0dae-4885-b45e-847bb97202b2/d00a8b511e376999e464?experience=power-bi
+<img width="900" height="495" alt="Screenshot (455)" src="https://github.com/user-attachments/assets/2fdcab39-3a34-40e7-810d-feb2e56034e2" />
+
