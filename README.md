@@ -64,8 +64,28 @@ This Power BI dashboard analyzes recruitment lead times for executive-level and 
 <img width="900" height="495" alt="Screenshot (455)" src="https://github.com/user-attachments/assets/2fdcab39-3a34-40e7-810d-feb2e56034e2" />
 
 ## 4. Energy Consumption
+This Power BI dashboard provides an in-depth analysis of energy consumption (Electricity, Gas, Water) across multiple buildings from 2016 to 2019. The visualization presents total costs, energy units consumed, and detailed trends by year, month, city, building, and energy type. It allows facility managers, analysts, or sustainability teams to make data-driven decisions for energy optimization and cost control.
+### Key Metrics:
+    Total Energy Units Consumed
 
+    Total Energy Cost
 
+    Cost & Units by Energy Type (Electricity, Gas, Water)
+
+    City-wise and Building-wise Analysis
+
+    Monthly and Yearly Trends
+
+### Key Insights: 
+    New York, Chicago, and Los Angeles contribute the highest to energy costs (together 80%+).
+
+    Electricity is the dominant energy type in terms of both cost and consumption.
+
+    Peak cost and consumption occur between months 3 to 5, likely due to seasonal changes.
+
+    Building IDs B1001 to B1009 are primarily electricity-based, with B1010 and B1011 representing gas usage.
+
+#### Link: https://app.powerbi.com/groups/me/reports/43309a01-b162-4362-b80d-f2c59269a9f3/6d4ba70af4c9301c324f?experience=power-bi
 <img width="776" height="443" alt="Screenshot (456)" src="https://github.com/user-attachments/assets/e0a7e868-26b6-472d-9fc2-a55e4bf77bd1" />
 
 
